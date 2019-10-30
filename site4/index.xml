@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Голубев Дмитрий on Голубев Дмитрий</title>
+    <link>http://golubevd.ru/</link>
+    <description>Recent content in Голубев Дмитрий on Голубев Дмитрий</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://golubevd.ru/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://golubevd.ru/about/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://golubevd.ru/about/</guid>
+      <description>&lt;p&gt;Дима, 23 годика. Есть диплом по радиофизике&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
